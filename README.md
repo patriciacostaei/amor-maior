@@ -1,6 +1,5 @@
 # Amor Maior
-
-![Screenshot da landing page](caminho/para/screenshot.png)
+www.amor-maior.pt
 
 Landing page desenvolvida para a loja **Amor Maior**, com o objetivo de apresentar informações básicas como o nome da loja e os contactos.
 
