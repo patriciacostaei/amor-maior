@@ -49,7 +49,7 @@ Este projeto tem como foco a simplicidade e funcionalidade. A utilização do Gi
 
 ## Autor
 
-Seu nome - [seu email]
+Patrícia Costa patriciacosta.ei@gmail.com
 
 ## Licença
 
